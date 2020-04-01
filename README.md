@@ -6,3 +6,5 @@ My second project
 Webotron is something good
 
 Added new commands
+
+Added setup bucket command
