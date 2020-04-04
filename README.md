@@ -10,3 +10,5 @@ Added new commands
 Added setup bucket command
 
 Added sync command
+
+Added --profile parameter
